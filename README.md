@@ -1,13 +1,1 @@
-## Hi there 👋
-
-<!--
-**rgeyugjd2222/rgeyugjd2222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-<img width="1000" height="1426" alt="image" src="https://github.com/user-attachments/assets/a428320b-42fe-4414-a355-897d434cef58" />
-
+<img width="1000" height="1426" alt="image" src="https://github.com/user-attachments/assets/e92029cd-c16c-4c3d-bc12-c298d1d7993b" />
